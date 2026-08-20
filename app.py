@@ -24,13 +24,13 @@ with col1:
 with col2:
   st.subheader("esta es la segunda columna")
   modo=st.radio ("me amas", ("si", "SIII", "MUCHOO"))
-  if modo == "visual":
+  if modo == "si":
     st.write("yo tañen")
 
-  if modo == "auditiva":
+  if modo == "SIII":
     st.write("YO MAAS")
 
-  if modo == "tactil":
+  if modo == "MUCHOO":
     st.write("YO MAAS")
     
   
