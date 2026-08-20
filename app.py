@@ -7,3 +7,7 @@ st.image (image,caption = "momeypablo")
 
 st.header("pagina de salome y pablo")
 st.write ("somos los novios mas lindos del mundo")
+
+texto= st.text_imput("aaaaaah!!!!","este es mi texto")
+st.write("el texto escrito es", texto)
+
