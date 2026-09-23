@@ -167,9 +167,7 @@ st.image(
 
 st.header("❤️ Página de Salomé y Pablo ❤️")
 
-st.write(
-    "Somos dos personas intentando programar 💻💕"
-)
+
 
 st.divider()
 
